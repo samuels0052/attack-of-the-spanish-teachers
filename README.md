@@ -2,7 +2,7 @@
 
 You are a student at a school that's horded with strict spanish teachers. Do you choose to rebel or obey them?
 
-[Click here to start adventure](situations/wakeup.html)
+[Click here to start adventure](index.html)
 <br>
 [Click here to view plan](plan.png)
 
