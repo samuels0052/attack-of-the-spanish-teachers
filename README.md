@@ -2,7 +2,7 @@
 
 You are a student at a school that's horded with strict spanish teachers. Do you choose to rebel or obey them?
 
-[Click here to start adventure](index.html)
+[Click here to start adventure](https://samuels0052.github.io/attack-of-the-spanish-teachers/)
 <br>
 [Click here to view plan](plan.png)
 
