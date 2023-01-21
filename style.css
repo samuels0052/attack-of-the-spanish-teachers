@@ -1,3 +1,9 @@
 #index {
     text-align: center;
 }
+
+.context {
+    text-align: center;
+    font: Oswald;
+    background-color: yellow;
+}
