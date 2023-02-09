@@ -1,14 +1,29 @@
+@font-face {
+    font-family: ProximaNovaFont;
+    src: url(ProximaNovaFont.otf);
+}
+
 #index {
     text-align: center;
 }
 
 .context {
     text-align: center;
-    font: Oswald;
-    background-color: yellow;
+    color: white;
+    font-size: 25px;
+    font-family: ProximaNovaFont;
+    background-image: linear-gradient(#7CB9E8, #00308F);
+    height: 100%;
 }
-
+/*
 a:hover {
     background-color: lightblue;
   }
-
+*/
+button {
+    background-color: white;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
+    cursor: pointer;
+}
